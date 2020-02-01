@@ -3,6 +3,7 @@
 This is the fifth project in Data Scientist Nano Degree from UDACITY
 In this project i've gone through making ETL & ML pipelines to classify a message according its content.
 
+![](Screen%20Shot%202020-02-01%20at%207.08.40%20AM.png)
 
 this Repo. includes the following: 
 - app
