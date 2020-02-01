@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project - Project5
+# Disaster Response Pipeline Project
 
 This is the fifth project in Data Scientist Nano Degree from UDACITY
 In this project i've gone through making ETL & ML pipelines to classify a message according its content.
